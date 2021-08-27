@@ -1,2 +1,2 @@
 # devopslav_full02
-Aula de DevOPs
+Aplicação Simples em Pyton/Flash com teste usando Unittest
