@@ -19,6 +19,5 @@ deploy:
   api_key: $HEROKU_API_KEY
   edge: true 
   app: devopslab-alberto
-  branches:    # ← new!
-      only:      # ← new!
-        - master # ← new!
+ on:
+    all_branches: true
