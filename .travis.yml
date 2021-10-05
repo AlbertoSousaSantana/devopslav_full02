@@ -21,6 +21,4 @@ deploy:
   app: devopslab-alberto
  on:
     repo: AlbertoSousaSantana/devopslav_full02
-    branches:    
-      only:      
-        - master
+    branch: main
