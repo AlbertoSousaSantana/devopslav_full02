@@ -20,4 +20,7 @@ deploy:
   edge: true 
   app: devopslab-alberto
  on:
-    all_branches: true
+    repo: AlbertoSousaSantana/devopslav_full02
+    branches:    
+      only:      
+        - master
